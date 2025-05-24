@@ -66,7 +66,7 @@ ESAP 不仅是一个技术项目，更是一种宣言：我们拒绝被定义，
 
 若你也有故事、有设定、有想象力——欢迎发邮件至：
 
-📫 **esap.core@protonmail.com**
+📫 **esap.core@esaps.net**
 
 ---
 
